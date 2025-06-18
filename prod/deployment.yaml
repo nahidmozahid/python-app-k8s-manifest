@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: python-app
-        image: nahid7846/python-app:prod-commitidhere
+        image: nahid7846/python-app:PROD-commitidhere
         ports:
         - containerPort: 8000
