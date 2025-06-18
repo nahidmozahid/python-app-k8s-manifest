@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: python-app
-        image: nahid7846/python-app:UAT-commitidhere
+        image: nahid7846/python-app:UAT-b010639498a61bc3e68846b2473d40cad2ab2184
         ports:
         - containerPort: 8000
